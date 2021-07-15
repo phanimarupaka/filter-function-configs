@@ -1,4 +1,4 @@
-# filter-function-configs
+# filter-local-configs
 
 Build the function:
 
