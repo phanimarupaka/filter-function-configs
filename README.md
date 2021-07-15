@@ -1,4 +1,4 @@
-# filter-funciton-configs
+# filter-function-configs
 
 Build the function:
 
